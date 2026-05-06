@@ -11,7 +11,7 @@ ob_start();
 
 <div class="page-header">
     <div>
-        <div class="page-title">📚 Assignatures</div>
+        <div class="page-title"> Assignatures</div>
         <div class="page-subtitle"><?= count($subjects) ?> assignatures al sistema</div>
     </div>
     <a href="/subjects/create" class="btn btn-primary">＋ Nova assignatura</a>

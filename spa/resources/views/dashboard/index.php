@@ -125,7 +125,7 @@ ob_start();
     <!-- Subjects status -->
     <div class="card">
         <div class="card-header">
-            <span class="card-title">📚 Assignatures</span>
+            <span class="card-title">Assignatures</span>
             <a href="/subjects" class="btn btn-secondary btn-sm">Gestionar</a>
         </div>
         <?php if (empty($subjects)): ?>

@@ -11,7 +11,7 @@ ob_start();
 
 <div class="page-header">
     <div>
-        <div class="page-title">👨‍🏫 Professors</div>
+        <div class="page-title"> Professors</div>
         <div class="page-subtitle"><?= count($teachers) ?> professors registrats</div>
     </div>
     <a href="/teachers/create" class="btn btn-primary">＋ Nou professor</a>
