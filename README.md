@@ -152,7 +152,7 @@ vendor/bin/phpunit
 
 ---
 
-## ⭐ Extras implementats (suma nota)
+## ⭐ Extras implementats
 
 - Value Object `Email` amb validació de format (`filter_var`)
 - Mètode `equals()` als Value Objects
